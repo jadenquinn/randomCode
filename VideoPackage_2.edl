@@ -1,0 +1,15 @@
+TITLE: Sequence 01
+FCM: DROP FRAME
+
+001  UNKNOWN  AA/V  C        00:00:00:00 00:00:10:00 00:00:00:00 00:00:10:00
+* FROM CLIP NAME: VideoPackage_2_File_0.mov
+
+002  UNKNOWN  AA/V  C        00:00:00:00 00:00:07:00 00:00:10:00 00:00:17:00
+* FROM CLIP NAME: VideoPackage_2_File_1.mov
+
+003  UNKNOWN  AA/V  C        00:00:00:00 00:00:09:00 00:00:17:00 00:00:26:00
+* FROM CLIP NAME: VideoPackage_2_File_2.mov
+
+004  UNKNOWN  AA/V  C        00:00:00:00 00:00:10:00 00:00:26:00 00:00:36:00
+* FROM CLIP NAME: VideoPackage_2_File_3.mov
+
